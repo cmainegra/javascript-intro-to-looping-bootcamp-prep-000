@@ -20,5 +20,8 @@ function doWhileLoop(array) {
     array.shift();
   }
   while (array.length > 0 && maybeTrue());
+<<<<<<< HEAD
   return array;
+=======
+>>>>>>> 0f98fe3c36e9c9aa7c8398804f5bf2b43cac285f
 }
